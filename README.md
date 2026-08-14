@@ -42,7 +42,7 @@ B.Tech CSE Student | Cybersecurity & Development
 [![](https://komarev.com/ghpvc/?username=asusjax222-gif&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created by jayesh  -->
-<h2>🐍 Contribution Snake</h2>
+
 
 <picture>
   <source
@@ -57,6 +57,11 @@ B.Tech CSE Student | Cybersecurity & Development
     src="https://raw.githubusercontent.com/asujax222-gif/asujax222-gif/output/github-snake.svg"
     alt="GitHub Contribution Snake"
   />
+  <h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asujax222-gif/asujax222-gif/output/github-snake.svg" alt="GitHub Contribution Snake">
+</p>
 </picture>
 
 
