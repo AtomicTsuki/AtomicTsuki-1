@@ -58,22 +58,7 @@ B.Tech CSE Student | Cybersecurity & Development
     alt="GitHub Contribution Snake"
   />
 </picture>
-<h2>🐍 Contribution Snake</h2>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/asujax222-gif/asujax222-gif/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/asujax222-gif/asujax222-gif/output/github-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/asujax222-gif/asujax222-gif/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</picture>
 
 
 
