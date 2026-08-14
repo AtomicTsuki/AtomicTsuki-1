@@ -42,24 +42,38 @@ B.Tech CSE Student | Cybersecurity & Development
 [![](https://komarev.com/ghpvc/?username=asusjax222-gif&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created by jayesh  -->
-## 🐍 Contribution Snake
+<h2>🐍 Contribution Snake</h2>
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/asujax222-git/asujax222-git/output/github-snake-dark.svg">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/asujax222-git/asujax222-git/output/github-snake.svg">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/asujax222-gif/asujax222-gif/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/asujax222-gif/asujax222-gif/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/asujax222-gif/asujax222-gif/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
+<h2>🐍 Contribution Snake</h2>
 
-    
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/asusjax222-gif/asujax222-git/refs/heads/output/github-snake-dark.svg" alt="GitHub contribution snake">
-</p>
-  </picture>
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/asujax222-gif/asujax222-gif/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/asujax222-gif/asujax222-gif/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/asujax222-gif/asujax222-gif/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
 
 
 
