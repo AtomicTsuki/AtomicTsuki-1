@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Jayesh
 
-B.Tech CSE Student | Cybersecurity & Development
+B.Tech CSE Ds Student | Cybersecurity & Development 
 
 🏆 Cisco CCST Cybersecurity Certified
 
